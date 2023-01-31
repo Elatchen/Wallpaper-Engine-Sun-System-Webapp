@@ -1,0 +1,24 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "A small model of the Solar System. This model is interactive - when clicking on a solar body information gets displayed in the top left corner. The planetary movement is realistic in relation to other solar bodies. The sizes of the Sun, and the rocky-Planets had to be altered to fit in one screen and still be viewable. The distance from the sun and between planets is not even close to being the correct scale.\r\nIf you find any bugs or have Ideas on what to change don't hesitate in posting a comment.",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "preview.png",
+	"tags" : [ "Sci-Fi" ],
+	"title" : "Animated Solar System (Interactive English version)",
+	"type" : "web",
+	"visibility" : "public",
+	"workshopid" : "1631950065"
+}
