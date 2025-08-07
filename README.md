@@ -1,10 +1,28 @@
 # Wallpaper-Engine-Sun-System-Webapp
-Some project I worked on during my Apprenticeship - bad code but functional, lol.
 
-A small model of the Solar System. This model is interactive - when clicking on a solar body information gets displayed in the top left corner. The planetary movement is realistic in relation to other solar bodies. The sizes of the Sun, and the rocky-Planets had to be altered to fit in one screen and still be viewable. The distance from the sun and between planets is not even close to being the correct scale.
-If you find any bugs or have Ideas on what to change contact me.
+Clicking on a celestial body will display information in a corner of your choice. Planetary movement is simulated realistically in relation to other solar bodies.
+To make everything fit on one screen and remain viewable, the sizes of the Sun and the rocky planets have been adjusted. Distances from the Sun and between planets are not to scale.
+
+If you find any bugs, have feature requests, or would like me to add translations, feel free to add me on Steam and send a message or leave a comment.
+
+Pluto may or may not be included. ;)
+
+Options are available to scale planets (and their orbits) or the info text boxes in Wallpaper Engine.
+
+Background options currently include plain black or an image of the Milky Way. More backgrounds or custom background features may be added in the future.
+
+Language options currently available:
+
+en - English
+de - Deutsch
+fr - Français
+es - Español
+zh - 中文 (Zhōngwén)
+hi - हिन्दी (Hindī)
+ar - العربية (Al-‘Arabīyah)
+pt - Português
+bn - বাংলা (Bangla)
+ru - Русский (Russkiy)
 
 
-English Version on Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=1631950065
-
-German Version on Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=946879758
+Download/Subscribe on Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=1631950065
