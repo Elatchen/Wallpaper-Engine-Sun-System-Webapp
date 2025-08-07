@@ -1,0 +1,157 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "Clicking on a celestial body will display information in a corner of your choice. Planetary movement is simulated realistically in relation to other solar bodies.\nTo make everything fit on one screen and remain viewable, the sizes of the Sun and the rocky planets have been adjusted. Distances from the Sun and between planets are not to scale.\n\nIf you find any bugs, have feature requests, or would like me to add translations, feel free to add me on Steam and send a message or leave a comment.\n\nPluto may or may not be included. ;)\n\nOptions are available to scale planets (and their orbits) or the info text boxes in Wallpaper Engine.\n\nBackground options currently include plain black or an image of the Milky Way. More backgrounds or custom background features may be added in the future.\n\nLanguage options currently available:\n\nen - English\nde - Deutsch\nfr - Français\nes - Español\nzh - 中文 (Zhōngwén)\nhi - हिन्दी (Hindī)\nar - العربية (Al-‘Arabīyah)\npt - Português\nbn - বাংলা (Bangla)\nru - Русский (Russkiy)",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"background" : 
+			{
+				"index" : 1,
+				"options" : 
+				[
+					{
+						"label" : "Black",
+						"value" : "Black"
+					},
+					{
+						"label" : "Milky Way",
+						"value" : "Milky Way"
+					}
+				],
+				"order" : 101,
+				"text" : "Background",
+				"type" : "combo",
+				"value" : "Milky Way"
+			},
+			"enablepluto" : 
+			{
+				"index" : 4,
+				"order" : 104,
+				"text" : "Enable Pluto",
+				"type" : "bool",
+				"value" : false
+			},
+			"infoboxposition" : 
+			{
+				"index" : 0,
+				"options" : 
+				[
+					{
+						"label" : "Top right",
+						"value" : "top-right"
+					},
+					{
+						"label" : "Top Left",
+						"value" : "top-left"
+					},
+					{
+						"label" : "Bottom right",
+						"value" : "bottom-right"
+					},
+					{
+						"label" : "Bottom left",
+						"value" : "bottom-left"
+					}
+				],
+				"order" : 100,
+				"text" : "Info box position",
+				"type" : "combo",
+				"value" : "top-right"
+			},
+			"language" : 
+			{
+				"index" : 5,
+				"options" : 
+				[
+					{
+						"label" : "English",
+						"value" : "en"
+					},
+					{
+						"label" : "Deutsch",
+						"value" : "de"
+					},
+					{
+						"label" : "Français",
+						"value" : "fr"
+					},
+					{
+						"label" : "Español",
+						"value" : "es"
+					},
+					{
+						"label" : "中文 (Zhōngwén)",
+						"value" : "zh"
+					},
+					{
+						"label" : "हिन्दी (Hindī)",
+						"value" : "hi"
+					},
+					{
+						"label" : "العربية (Al-‘Arabīyah)",
+						"value" : "ar"
+					},
+					{
+						"label" : "Português",
+						"value" : "pt"
+					},
+					{
+						"label" : "বাংলা (Bangla)",
+						"value" : "bn"
+					},
+					{
+						"label" : "Русский (Russkiy)",
+						"value" : "ru"
+					}
+				],
+				"order" : 105,
+				"text" : "Language",
+				"type" : "combo",
+				"value" : "en"
+			},
+			"planetsize" : 
+			{
+				"fraction" : false,
+				"index" : 2,
+				"max" : 500,
+				"min" : 50,
+				"order" : 102,
+				"text" : "Planet Size in %",
+				"type" : "slider",
+				"value" : 100
+			},
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			},
+			"tablesize" : 
+			{
+				"fraction" : false,
+				"index" : 3,
+				"max" : 500,
+				"min" : 50,
+				"order" : 103,
+				"text" : "Info box size in %",
+				"type" : "slider",
+				"value" : 100
+			}
+		}
+	},
+	"preview" : "preview.gif",
+	"ratingsex" : "none",
+	"ratingviolence" : "none",
+	"snapshotformat" : 0,
+	"snapshotoverlay" : "",
+	"tags" : [ "Sci-Fi" ],
+	"title" : "Animated Solar System (interactive, multilanguage-support)",
+	"type" : "web",
+	"version" : 5,
+	"visibility" : "public",
+	"workshopid" : "1631950065",
+	"workshopurl" : "steam://url/CommunityFilePage/1631950065"
+}
